@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/f08394f2-b0fc-43ab-b209-24e489a5a444)
 
-Project Link: https://assignment-mmau.vercel.app/
+Project Link: https://workflow-interface.vercel.app/
 
 A beautiful, responsive workflow editing interface built with React that allows users to create, edit, and manage AI-powered workflow steps through an intuitive drag-and-drop canvas.
 
